@@ -1,0 +1,10 @@
+.red-block {
+    border: solid 1px red;
+    padding: 50px;
+}
+
+#blue-block {
+    border: solid 2px violet;
+    padding: 20px;
+    color: red;
+}
